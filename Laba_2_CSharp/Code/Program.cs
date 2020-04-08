@@ -7,6 +7,7 @@ namespace Laba_2_CSharp
     {
         /// <summary>
         /// Главная точка входа для приложения.
+        /// Final Version
         /// </summary>
         [STAThread]
         static void Main()
